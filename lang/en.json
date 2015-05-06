@@ -1,5 +1,5 @@
 {
-"stats_extension":[
+"stats_extension_resbundles":[
 {"name":"STATS-BAGPLOT",
 "summary":"Create a bagplot or a matrix of bagplots",
 "description":"This procedure creates bagplots.A bagplot is a two-dimensional generalization of a boxplot."},
