@@ -5,10 +5,6 @@
 "Command-Specs": "STATS_BAGPLOT.xml",
 "Code-Files": "STATS_BAGPLOT.R",
 "Misc-Files": "markdown.html,extsyntax.css,IBMdialogicon.png",
-"Summary": "Create a bagplot or a matrix of bagplots",
-"Description": "This procedure creates bagplots.  A bagplot is a two-dime
- nsional generalization of a boxplot.  With more than two variables, a
-  matrix of bagplots is created.",
 "Author": "JKP, IBM SPSS",
 "Version": "1.0.4",
 "Product-Version": "18",
@@ -23,8 +19,6 @@
 "Command-Specs": "",
 "Code-Files": "",
 "Misc-Files": ",
-"Summary": "",
-"Description": "",
 "Author": "",
 "Version": "",
 "Product-Version": "",
