@@ -1,6 +1,6 @@
 {
 "stats_extension_info":[
-{"name":"STATS-BAGPLOT",
+{"name":"STATSEXT-STATS-BAGPLOT",
 "Dialog-Specs":"STATS_BAGPLOT.spd",
 "Command-Specs": "STATS_BAGPLOT.xml",
 "Code-Files": "STATS_BAGPLOT.R",
