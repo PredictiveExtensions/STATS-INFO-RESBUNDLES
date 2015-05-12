@@ -1,18 +1,18 @@
 {
 "stats_extension_resbundles":[
-{"name":"STATS-BAGPLOT",
+{"name":"STATSEXT-STATS-BAGPLOT",
 "summary":"Create a bagplot or a matrix of bagplots",
 "description":"This procedure creates bagplots.A bagplot is a two-dimensional generalization of a boxplot."},
 
-{"name":"STATS-SPSSINC-RANFOR",
+{"name":"STATSEXT-SPSSINC-RANFOR",
 "summary":"This is used to create ..",
 "description":"blublublu..."},
 
-{"name":"STATS-TURF",
+{"name":"STATSEXT-STATS-TURF",
 "summary":"blublublu...",
 "description":"blublublu..."},
 
-{"name":"STATS-TRANS",
+{"name":"STATSEXT-STATS-TRANS",
 "summary":"blublublu...",
 "description":"blublublu..."}
 

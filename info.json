@@ -1,14 +1,43 @@
 {
 "stats_extension_info":[
+<<<<<<< HEAD
 
 {"name":"STATS-BAGPLOT",
+=======
+{"name":"STATSEXT-STATS-BAGPLOT",
+"Dialog-Specs":"STATS_BAGPLOT.spd",
+"Command-Specs": "STATS_BAGPLOT.xml",
+"Code-Files": "STATS_BAGPLOT.R",
+"Misc-Files": "markdown.html,extsyntax.css,IBMdialogicon.png",
+>>>>>>> origin/master
 "Author": "JKP, IBM SPSS",
 "Version": "1.0.4",
 "Product-Version": "18",
 "Date": "4/26/14",
 "Categories": "graphics, bagplot",
 "Plugins": "R",
+<<<<<<< HEAD
 "R-Packages": "aplpack"},
 
 ]
 }
+=======
+"R-Packages": "aplpack",
+"Translation-Catalogues": "lang"},
+
+{"name":"",
+"Dialog-Specs":"",
+"Command-Specs": "",
+"Code-Files": "",
+"Misc-Files": ",
+"Author": "",
+"Version": "",
+"Product-Version": "",
+"Date": "",
+"Categories": "",
+"Plugins": "",
+"R-Packages": "",
+"Translation-Catalogues": ""}
+
+}
+>>>>>>> origin/master
